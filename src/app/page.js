@@ -56,7 +56,7 @@ export default function Home() {
               className={styles.profileImage}
             />
             <h1 className={styles.title} style={{ marginTop: "1.5rem" }}>
-              krishnapal
+              krishnapal singh 
             </h1>
             <h3 className={styles.profession}>Full Stack Developer</h3>
           </div>
